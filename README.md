@@ -13,7 +13,7 @@ Estando na pasta onde esse repositório foi clonado rode ```mvn clean install```
 
 ```
 
-Em seguida, você pode chamar o ClientGemini passando sua chave, em seguida você pode utilizar o método para fazer sua pergunta, será retornado em String sua resposta.
+Em seguida, você pode chamar o ClientGemini passando sua chave, depois, utilize o método para fazer sua pergunta, será retornado em String sua resposta.
 
 
 ```Java
