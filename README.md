@@ -1,4 +1,4 @@
-## Biiblioteca ClientGemini para Java
+## Biblioteca ClientGemini para Java
 
 Ao clonar o projeto e usar o mvn install ```mvn clean install```, você pode utilizar o seguinte código
 
